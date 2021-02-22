@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LEnmKcdx6ouiL3+Ngvzc/TOVpUYNlbYe1tAsLuur8um9S2hFG1I4thqZeOzN1QPM51ERM9psclzzJ9Y47j62+Q==",
+  "dgSpecHash": "SCXFnUmqd95PbZ5ieByXZGgMKTbKWRTYcbvXpv/v2CJB47aswv8dyKURykKrgrvQBjhyM43QkYwGlrXkHcPi0w==",
   "success": true,
-  "projectFilePath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
+  "projectFilePath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

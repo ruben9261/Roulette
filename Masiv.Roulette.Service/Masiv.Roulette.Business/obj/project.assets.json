@@ -1304,11 +1304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\Masiv.RouletteProject.Business.csproj",
+      "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\Masiv.RouletteProject.Business.csproj",
       "projectName": "Masiv.RouletteProject.Business",
-      "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\Masiv.RouletteProject.Business.csproj",
+      "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\Masiv.RouletteProject.Business.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\obj\\",
+      "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1328,8 +1328,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj": {
-              "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj"
+            "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj": {
+              "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj"
             }
           }
         }

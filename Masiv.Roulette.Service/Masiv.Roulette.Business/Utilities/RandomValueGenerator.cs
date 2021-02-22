@@ -12,9 +12,9 @@ namespace Masiv.RouletteProject.Business.Utilities
             ColorEnum[] listColorEnum = new ColorEnum[2];
             listColorEnum[0] = ColorEnum.negro;
             listColorEnum[1] = ColorEnum.rojo;
-
             Random rnd = new Random();
             int index = rnd.Next(listColorEnum.Length);
+
             return listColorEnum[index];
         }
 
@@ -23,7 +23,8 @@ namespace Masiv.RouletteProject.Business.Utilities
             int max = 36;
             int min = 0;
             Random rnd = new Random();
-            return rnd.Next(min, max+1);
+
+            return rnd.Next(min, max + 1);
         }
     }
 }

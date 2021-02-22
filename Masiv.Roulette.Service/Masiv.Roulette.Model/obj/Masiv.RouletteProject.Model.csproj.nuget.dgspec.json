@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {}
+    "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {}
   },
   "projects": {
-    "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {
+    "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj",
+        "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj",
         "projectName": "Masiv.RouletteProject.Model",
-        "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj",
+        "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\obj\\",
+        "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

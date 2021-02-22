@@ -1283,11 +1283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
+      "projectUniqueName": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
       "projectName": "Masiv.RouletteProject.Repository",
-      "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
+      "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\Masiv.RouletteProject.Repository.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\obj\\",
+      "outputPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1307,8 +1307,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {
-              "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj"
+            "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj": {
+              "projectPath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Model\\Masiv.RouletteProject.Model.csproj"
             }
           }
         }

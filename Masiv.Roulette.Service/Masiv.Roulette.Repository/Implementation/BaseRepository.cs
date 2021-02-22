@@ -8,7 +8,7 @@ using System.Text;
 
 namespace Masiv.RouletteProject.Repository.Implementation
 {
-    public class BaseRepository<TEntity>: IDisposable where TEntity : BaseEntity<String>, new()
+    public class BaseRepository<TEntity> : IDisposable where TEntity : BaseEntity<String>, new()
     {
         protected readonly IConnectionMultiplexer _IConnectionMultiplexer;
         protected readonly String _redisKey;

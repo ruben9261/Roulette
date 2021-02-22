@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqmpNeb/jZ2lbM1s38jeJhsN8M4omHEkK0KKo25uLXq3gbZ8B47f/Ra5HAzK5Ni4ACXh4bY5dX0zier4Lvx/Pw==",
+  "dgSpecHash": "IeHQrCvOoFYZ9Q28q4PdCNtjm9LyWqY7u2XCcOJQdzAZklbdRCDi4kD0bQkuirXsCk8fo6rbuHQ4utiIFYJr9Q==",
   "success": true,
-  "projectFilePath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette.Service\\Masiv.Roulette.Service\\Masiv.RouletteProject.Service.csproj",
+  "projectFilePath": "D:\\UMC\\labs\\Interviews\\masiv\\CleanCode\\Masiv.Roulette\\Masiv.Roulette.Service\\Masiv.Roulette.Service\\Masiv.RouletteProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",

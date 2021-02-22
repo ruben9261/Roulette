@@ -48,10 +48,10 @@ namespace Masiv.RouletteProject.Service.Controllers
         [HttpGet("opening/{id}")]
         Response<entities.Roulette> opening([FromRoute] String id)
         {
-            entities.Roulette roulette = null;
             Response<entities.Roulette> response = new Response<entities.Roulette>();
             try
             {
+                entities.Roulette roulette = null;
                 roulette = _IRouletteBusiness.opening(id);
                 response.buildResponseOk(roulette, String.Empty);
                 return response;
@@ -67,10 +67,10 @@ namespace Masiv.RouletteProject.Service.Controllers
         [HttpGet("closing/{id}")]
         Response<entities.Roulette> closing([FromRoute] String id)
         {
-            entities.Roulette roulette = null;
             Response<entities.Roulette> response = new Response<entities.Roulette>();
             try
             {
+                entities.Roulette roulette = null;
                 roulette = _IRouletteBusiness.opening(id);
                 response.buildResponseOk(roulette, String.Empty);
                 return response;
@@ -86,10 +86,10 @@ namespace Masiv.RouletteProject.Service.Controllers
         [HttpGet("wager/{id}")]
         Response<entities.Roulette> wager([FromRoute] String id, [FromBody] WagerRequest wagerRequest, [FromHeader] String userId)
         {
-            entities.Roulette roulette = null;
             Response<entities.Roulette> response = new Response<entities.Roulette>();
             try
             {
+                entities.Roulette roulette = null;
                 roulette = _IRouletteBusiness.wager(wagerRequest, id, userId);
                 response.buildResponseOk(roulette, String.Empty);
                 return response;

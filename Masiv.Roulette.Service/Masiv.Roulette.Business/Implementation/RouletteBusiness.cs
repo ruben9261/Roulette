@@ -50,7 +50,7 @@ namespace Masiv.RouletteProject.Business.Implementation
             _IRouletteRepository.save(roulette);
 
             return roulette;
-        }        
+        }
 
         private Boolean validateValueByType(int? number, String color, TypeEnum typeEnum)
         {
@@ -72,7 +72,7 @@ namespace Masiv.RouletteProject.Business.Implementation
             {
                 Boolean isPresent = roulette.lstWager.Exists(x => x.user.id.Equals(wager.user.id));
                 if (isPresent)
-                    throw new Exception("Vaya! Solo puedes apostar una vez");
+                    throw new Exception("Lo sentimos!. solo puedes apostar una vez");
                 else
                     roulette.lstWager.Add(wager);
             }
@@ -119,7 +119,6 @@ namespace Masiv.RouletteProject.Business.Implementation
             if ((resultNumber % 2) == 0) colorEnum = ColorEnum.rojo;
             foreach (var wager in roulette.lstWager)
                 buildListResults(resultNumber, winners, losers, colorEnum, wager);
-
             Dictionary<String, WagerResponse> result = new Dictionary<String, WagerResponse>();
             result.Add("result", new WagerResponse
             {
