@@ -1,0 +1,12 @@
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.AssemblyInfoInputs.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.AssemblyInfo.cs
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.csproj.CoreCompileInputs.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.deps.json
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.csprojAssemblyReference.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.Constants.KeyConstants.resources
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.csproj.GenerateResource.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Model\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.Constants.ResponseApiCodes.resources

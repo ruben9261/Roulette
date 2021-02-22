@@ -1,0 +1,14 @@
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.deps.json
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.AssemblyInfoInputs.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.AssemblyInfo.cs
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.csproj.CoreCompileInputs.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Repository.dll
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Repository.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\bin\Debug\netcoreapp3.1\Masiv.RouletteProject.Model.pdb
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.csprojAssemblyReference.cache
+D:\UMC\labs\Interviews\masiv\CleanCode\Masiv.Roulette.Service\Masiv.Roulette.Business\obj\Debug\netcoreapp3.1\Masiv.RouletteProject.Business.csproj.CopyComplete
